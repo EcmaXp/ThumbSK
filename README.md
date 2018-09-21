@@ -1,8 +1,9 @@
 # ThumbSJ
-Thumb Simulator (Java) for Cortex-M0
+Thumb Simulator (Kotlin) for Cortex-M0
 
 ## Reference
 - https://github.com/EcmaXp/ThumbSC
+- https://github.com/EcmaXp/ThumbSJ
 - https://github.com/SolraBizna/jarm
 - https://github.com/katsuster/ememu
 - https://github.com/micropython/micropython-unicorn
