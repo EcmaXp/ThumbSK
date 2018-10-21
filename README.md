@@ -1,4 +1,4 @@
-# ThumbSJ
+# ThumbSF
 Thumb Simulator (Kotlin) for Cortex-M0
 
 ## Reference
